@@ -1,6 +1,5 @@
 {
   "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "http://localhost:4502{{pathname}}?cmd=open"
-
+  "editUrlPattern": "http://localhost:4502/content/asset-share-commons/en/eycom.html?cmd=open"
 }
