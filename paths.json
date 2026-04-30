@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/asset-share-commons/en/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/asset-share-commons/en/"
   ]
 }
