@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/"
+    url: "http://localhost:4502/content/asset-share-commons/en/"
     type: "markup"
     suffix: ".html"
